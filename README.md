@@ -1,4 +1,4 @@
-```diff
+
 
 CTF name：handsome_boy、handsomeboy
 
@@ -14,4 +14,4 @@ CTF Team：Tsai_Dog(Play CTF contest rarely)
 
 
 
-```
+
