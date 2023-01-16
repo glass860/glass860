@@ -10,4 +10,4 @@ CTF Team：Tsai_Dog(Play CTF contest often)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=glass860)](https://git.io/streak-stats) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![handsome_boy's GitHub stats](https://github-readme-stats.vercel.app/api?username=glass860)](https://github.com/anuraghazra/github-readme-stats)
