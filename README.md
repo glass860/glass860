@@ -1,4 +1,4 @@
-CTF name：handsome_boy
+CTF name：handsome_boy、handsomeboy
 
 Discord：Hihiboy
 
