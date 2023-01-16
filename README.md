@@ -12,8 +12,4 @@ CTF Team：Tsai_Dog(Play CTF contest rarely)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=glass860&theme=dark&hide_border=true&border_radius=10&locale=zh_Hant)](https://git.io/streak-stats)
 
-<div class="embed-container">
-    <iframe width="640" height="390" 
-    src="https://www.youtube.com/embed/{{ include.id }}" 
-    frameborder="0" allowfullscreen></iframe>
-</div>
+
