@@ -4,7 +4,7 @@ CTF name：handsome_boy、handsomeboy
 
 Discord：Hihiboy
 
-CTF Team：Tsai_Dog(Play CTF contest rarely)
+CTF Team：Tsai_Dog
 
 ![](https://i.imgur.com/n8mcIDf.gif)
 
